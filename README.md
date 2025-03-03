@@ -1,6 +1,3 @@
-
-# Ultimate Java Backend Project: Spring Boot Tutorial
-
 ## Project Overview
 
 This is a backend project that consists of a simple CRUD application, designed to allow users to search for players in the Fantasy Premier League. 
