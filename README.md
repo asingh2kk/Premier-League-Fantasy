@@ -17,38 +17,6 @@
 
 ---
 
-## Setup and Installation
-
-Follow these steps to set up the project on your local machine:
-
-### 1. Install Prerequisites
-
-Make sure you have the following tools installed on your machine:
-
-- **Java 23**
-- **PostgreSQL**
-- **IntelliJ IDEA** (or any IDE of your choice)
-
-### 2. Clone the Repository
-
-Clone the project from GitHub:
-
-```bash
-git clone <repo_url>
-```
-
-### 3. Set Up PostgreSQL Database
-
-1. Create a database in PostgreSQL.
-2. Grant all privileges to the user you’ll be using for the connection.
-3. Import the player data CSV file into the PostgreSQL database.
-
-### 4. Configure Database Connection
-
-Modify the `application.properties` file under `src/main/resources/` to set up the database connection details.
-
----
-
 ## Running the Application
 
 To run the application, follow these steps:
