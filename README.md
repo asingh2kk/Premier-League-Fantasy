@@ -1,10 +1,3 @@
-## Project Overview
-
-This is a backend project that consists of a simple CRUD application, designed to allow users to search for players in the Fantasy Premier League. 
-The application includes a REST API that interacts with a PostgreSQL database, allowing users to query and retrieve player data based on specific criteria (team, position, nationality, etc.).
-
----
-
 ## Features
 
 - **Search for players**: Users can filter players by team, position, or nationality.
@@ -17,10 +10,10 @@ The application includes a REST API that interacts with a PostgreSQL database, a
 
 ## Technologies Used
 
-- **Java**: The language used for backend development.
-- **Spring Boot**: Framework used for building the backend REST API.
-- **PostgreSQL**: The database management system used to store player data.
-- **Maven**: A build automation tool used for project management and dependencies.
+- **Java**
+- **Spring Boot**
+- **PostgreSQL**
+- **Maven**
 
 ---
 
